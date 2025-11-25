@@ -2,4 +2,4 @@
 If you go to the site: You can find wherever you want.
 In compare page-webSite you can put what you want in your real Projekt
 
-[There is a link]([http://example.com](https://python-app-basic-code.streamlit.app/))
+[My Streamlit App](https://python-app-basic-code.streamlit.app/)
