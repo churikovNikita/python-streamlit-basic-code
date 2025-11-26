@@ -32,6 +32,6 @@ Python + Streamlit
 
 <p align="center">
   <img src="images/Basic page.png" width="700">
-  <img src="images/Calculator page.png" width="700">
-  <img src="images/Upload page.png" width="700">
+  <img src="images/Calculator page.png" width="400">
+  <img src="images/Upload page.png" width="400">
 </p>
