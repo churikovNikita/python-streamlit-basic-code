@@ -21,5 +21,15 @@ The main feature: 📌
 #### Technologie 🔍
 Python + Streamlit
 
-## 🚀 Live Demo  
+# Streamlit Mini App
+
+## 🌐 Live Demo  
 👉 **https://python-app-basic-code.streamlit.app/**
+
+---
+
+## 📷 Screenshot
+
+<p align="center">
+  <img src="images/main_page.png" width="700">
+</p>
